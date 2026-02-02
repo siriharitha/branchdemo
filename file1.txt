@@ -1,2 +1,7 @@
 This is file1 created by main branch
+<<<<<<< HEAD
 This file is modified at main branch by myself
+=======
+this file is modified in main branch by member 2
+>>>>>>> b2
+
